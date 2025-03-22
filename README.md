@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-I am studying
+I am studying Computer Science.
